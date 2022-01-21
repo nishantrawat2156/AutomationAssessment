@@ -1,0 +1,6 @@
+addtocart/AddtoCartTest.class
+org/example/AppTest.class
+core/Logger.class
+contact/ErrorMessageTest.class
+contact/SuccessMessageTest.class
+core/BasicActionsIntegration.class

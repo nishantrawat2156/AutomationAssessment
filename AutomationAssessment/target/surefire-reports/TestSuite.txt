@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 64.711 s <<< FAILURE! - in TestSuite
+addtocart.AddtoCartTest.add_to_cart_and_verify_name_and_price  Time elapsed: 8.117 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ndi-mb-250', ip: '2401:4900:2eeb:8ce1:3973:7f94:2a41:6d5f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.1', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: /var/folders/59/0fkht2_n4k7...}, goog:chromeOptions: {debuggerAddress: localhost:59743}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f808588478a52a99b11b3d2d40efe437
+	at addtocart.AddtoCartTest.add_to_cart_and_verify_name_and_price(AddtoCartTest.java:28)
+

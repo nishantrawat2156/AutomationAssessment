@@ -1,0 +1,6 @@
+page_functions/ShopCartPageImpl.class
+page_ors/ShopCartPage.class
+page_ors/ContactPage.class
+utils/BasicActions.class
+page_functions/ContactPageImpl.class
+utils/Bot.class
